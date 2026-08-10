@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenv
+env/
+venv/
+.venv/
+
+# Kivy / buildozer / p4a
+.buildozer/
+build/
+dist/
+bin/
+*.apk
+*.aab
+
+# Keystores and signing files
+*.keystore
+*.jks
+*.pem
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Env / secrets
+.env
+
+# Misc
+*.log
+*.zip
+*.tmp
+
+# Ignore audio/art assets if you prefer storing them elsewhere (optional)
+# audio/
+# images/

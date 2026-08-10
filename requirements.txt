@@ -1,0 +1,2 @@
+kivy>=2.1.0
+# Para empaquetar en Android usa python-for-android / buildozer (no se listan aquí)
